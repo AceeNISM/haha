@@ -95,7 +95,7 @@ def hlp(screen):
     screen.play(scenes, stop_on_resize=False, repeat=False)
    
 #clear gif#
-def cls(screen):
+def clss(screen):
     scenes = []
     effects = [
         Print(screen,
